@@ -1,2 +1,3 @@
 # TekGeek-Ping-Pong
-This is the code for my very first game
+
+TekGeek Ping Pong is the very first game that was made by game developer TekGeek
