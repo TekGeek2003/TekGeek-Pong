@@ -1,11 +1,12 @@
-# TekGeek-Pong
+# TekGeek Pong
+TekGeek Pong is the very first game that was made by game developer TekGeek. 
+It is a remake of the classic table tennis themed video game by Atari.
+Built with the pygame library.
 
-TekGeek Pong is the very first game 
-that was made by game developer TekGeek.
-Built using the PyGame library.
+# Requirements
+Python programming language
+Pygame computer program
 
-# How to play 
-Use the up and down arrow keys on your
-keyboard ⬆️⬇️ to control 
-your paddle to hit the ball in the
-opposite goal to score a point
+# How to play
+Run the game
+Use the up and down arrow keys to control your paddle and try to hit the ball in the oposite goal to score a point.
