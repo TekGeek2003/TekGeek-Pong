@@ -1,6 +1,6 @@
 # TekGeek Pong
 TekGeek Pong is the very first game that was made by game developer TekGeek. 
-It is a remake of the classic table tennis themed video game by Atari.
+It is a remake of the classic table tennis themed video game Pong by Atari.
 Built with the pygame library.
 
 # Requirements
