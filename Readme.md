@@ -11,3 +11,5 @@ How to Play
 install Pygame: pip3 install Pygame
 
 Run the main.py file
+
+Use the up and down arrow keys on your keyboard to control your paddle and try to knock the ball in the opposite goal.
