@@ -1,9 +1,9 @@
 TekGeek Pong is a remake of the classic arcade game Pong by game developer TekGeek.
-Built with the Pygame computer program
+Built with the Pygame library
 
 Requirements to play
 - python programming language
-- Pygame computer program
+- Pygame library
 
 
 How to Play
