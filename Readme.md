@@ -8,7 +8,7 @@ Requirements to play
 
 How to Play
 
-install Pygame: pip3 install Pygame or pip install pygame
+install Pygame: pip3 install pygame or pip install pygame
 
 Run the main.py file
 
